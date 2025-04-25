@@ -1,5 +1,43 @@
 {
-  "name": "Using fixtures to represent data",
-  "email": "hello@cypress.io",
-  "body": "Fixtures are a great way to mock data for responses to routes"
+  "cz": {
+    "email": "kecef10057@ptiong.com",
+    "password": "BCFWK",
+    "contact": {
+      "Name": "Olena Kifyak",
+      "IČO": "07831668",
+      "Telefon": "777222334",
+      "E-mail": "olenak@example.com",
+      "Ulice": "Pelhřimovská 847, Kamenice nad Lipou",
+      "Město": "Kamenice nad Lipou",
+      "PSČ": "39470"
+    }
+  },
+  "sk": {
+    "email": "tekadoy675@cxnlab.com",
+    "password": "MZE1V",
+    "contact": {
+      "Name": "Olha Senchyk",
+      "IČO": "56146540",
+      "Telefón": "02/12345678",
+      "E-mail": "olha@example.com",
+      "IČ DPH": "SK1020901332",
+      "Ulica": "Karpatské námestie 7770/10A",
+      "Město": "Bratislava - mestská časť Rača",
+      "PSČ": "83106"
+    }
+  },
+  "com": {
+    "email": "xivoh72850@f5url.com",
+    "password": "XJTNL",
+    "contact": {
+      "Name": "Oleh Kuzmin",
+      "ID": "123",
+      "Phone": "(520) 467-3931",
+      "E-mail": "oleh@example.com",
+      "Street": "1270 6th Ave",
+      "City": "New York",
+      "Zip code": "10020"
+    }
+  }
 }
+
